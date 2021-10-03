@@ -4,6 +4,7 @@ RENCANA KEDEPANNYA
  *ES6
  *FRAMEWORK JAVASCRIPT
   ^Vue
+  ^React
 -Struktur data dasar
 -PHP FRAMEWORK
  ^laravel
