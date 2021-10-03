@@ -1,3 +1,4 @@
 FIRGY RESOLUSI
--Belajar yang rajin
--Bisa membuat website terbagus
+- Belajar yang rajin
+- Bisa membuat website terbagus
+- Membuat robot
