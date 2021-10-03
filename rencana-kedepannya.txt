@@ -3,9 +3,11 @@ RENCANA KEDEPANNYA
 -JAVASCRIPT
  *ES6
  *FRAMEWORK JAVASCRIPT
-  ^Angular
+  ^Vue
   ^React
+-Struktur data dasar
 -PHP FRAMEWORK
-  ^Laravel
+ ^laravel
 -INTERVIEW
 -VLOG
+-Python
